@@ -1,5 +1,5 @@
 # CampoMinado
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Projeto pessoal desenvolvido para treinar as skills em POO.
 
 ## O programa simula um jogo de campo minado e todas suas funcionalidades no console do user.
